@@ -1,8 +1,8 @@
 # odin-recipes
 'Gon cookin!
 
-Hello odin!
+Hello Odin!
 
-While not my first, this is an attmept to build a very simple page with HTML. I expect to use a variety of elements and links using tags/attributes/values. 
+This is an attempt to build a very simple page with HTML. I expect to use a variety of elements and links using tags/attributes/values. 
 
-Vegan since 2017 babbeeey plaaaant based recipeees
+Vegan grub galore?
